@@ -4,4 +4,4 @@ metadata:
   name: demo-configmap
 data:
   somekey: "somekey"
-  somevalue: "somekey"
+  anotherkey: "anothervalue"
